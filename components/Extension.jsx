@@ -22,7 +22,7 @@ function Extension() {
                             </div>
 
                             <h2
-                                className='text-2xl font-thin gold-gradient-text'
+                                className='text-2xl font-thin text-center'
                             >
                                 Google Chrome Extension
                             </h2>

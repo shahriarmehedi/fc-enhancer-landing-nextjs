@@ -14,7 +14,7 @@ function AppReviews() {
                     </div>
                     <div className='flex flex-col lg:flex-row justify-between items-center gap-5'>
 
-                        <div className='flex flex-col items-center gap-5 bg-violet-500 bg-opacity-5 py-9 px-14 rounded-lg w-full'>
+                        <div className='flex flex-col items-center gap-5 bg-violet-500 bg-opacity-5 py-9 px-7 lg:px-14 rounded-lg w-full'>
                             {/* app store */}
 
                             <div className="flex">
@@ -55,7 +55,7 @@ function AppReviews() {
                             </div>
 
                         </div>
-                        <div className='flex flex-col items-center gap-5 bg-violet-500 bg-opacity-5 py-10 px-14 rounded-lg w-full'>
+                        <div className='flex flex-col items-center gap-5 bg-violet-500 bg-opacity-5 py-10 px-7 lg:px-14 rounded-lg w-full'>
                             {/* play store */}
 
                             <div className="flex">

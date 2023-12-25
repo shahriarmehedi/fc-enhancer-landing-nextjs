@@ -22,7 +22,7 @@ function Discord() {
                             </div>
 
                             <h2
-                                className='text-2xl font-thin gold-gradient-text'
+                                className='text-2xl font-thin  text-center'
                             >
                                 Total Discord Member
                             </h2>

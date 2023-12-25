@@ -13,7 +13,7 @@ function Youtube() {
                     </div>
                     <div className='flex flex-col lg:flex-row justify-between items-center gap-5'>
 
-                        <div className='flex flex-col items-center gap-5 bg-violet-500 bg-opacity-5 py-14 px-14 rounded-lg w-full'>
+                        <div className='flex flex-col items-center gap-5 bg-violet-500 bg-opacity-5 py-14 px-7 lg:px-14 rounded-lg w-full'>
 
                             <div className="flex">
                                 <img src="https://static-00.iconduck.com/assets.00/youtube-icon-1024x1024-v6f0etsg.png" alt=""
@@ -22,7 +22,7 @@ function Youtube() {
                             </div>
 
                             <h2
-                                className='text-2xl font-thin gold-gradient-text'
+                                className='text-2xl font-thin text-center'
                             >
                                 YouTube Subscribers
                             </h2>

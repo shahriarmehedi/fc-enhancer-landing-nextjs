@@ -3,12 +3,12 @@ import React from 'react'
 function CTA() {
     return (
         <div className='bg-[#212126] text-white'>
-            <div className="bg-violet-500 bg-opacity-5 flex flex-col justify-center items-center text-center mx-auto py-24 lg:py-44 px-5 2xl:px-0">
+            <div className="bg-violet-500 bg-opacity-5 flex flex-col justify-center items-center text-center mx-auto py-24 lg:py-44 px-7 2xl:px-0">
                 <h2 className='text-3xl lg:text-6xl font-bold pt-7 gold-gradient-text'>
                     Everything you need. <br />
                     Nothing you don't.
                 </h2>
-                <p className='lg:text-xl pt-10 lg:w-2/3 mx-auto text-gray-500 font-semibold'>
+                <p className='lg:text-xl pt-10 lg:w-2/3 mx-auto text-gray-500 font-light'>
                     <span className='text-white'> FC Enhancer has all the features</span>. Supersets, Custom plan, CSV Export, Calculator, Siri Shortcuts, 3rd Party Integrations, Dark Mode, RPE, Advanced Charts, Measurements and more. <span className='text-white'> You do the work.</span>
                 </p>
 
