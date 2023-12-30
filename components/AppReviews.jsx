@@ -6,7 +6,7 @@ function AppReviews() {
         <div className='bg-[#212126] text-white'>
             <div className='max-w-5xl mx-auto'>
                 {/* 3 section, for each section - star, average review star, total review,  respectively for app store, google play store and worldwide */}
-                <div className='px-5 lg:px-0 py-24 lg:py-44'>
+                <div className='px-5 lg:px-0 py-24 lg:pt-44 pb-14'>
                     <div className="flex justify-center">
                         <h1 className="text-3xl lg:text-4xl font-thin title-font text-white mb-12 text-center gold-gradient-text">
                             App Reviews
@@ -14,7 +14,7 @@ function AppReviews() {
                     </div>
                     <div className='flex flex-col lg:flex-row justify-between items-center gap-5'>
 
-                        <div className='flex flex-col items-center gap-5 bg-violet-500 bg-opacity-5 py-9 px-7 lg:px-14 rounded-lg w-full'>
+                        <div className='flex flex-col items-center gap-5 bg-violet-500 border border-violet-500 border-opacity-20 bg-opacity-5 py-9 px-7 lg:px-14 rounded-lg w-full'>
                             {/* app store */}
 
                             <div className="flex">
@@ -55,7 +55,7 @@ function AppReviews() {
                             </div>
 
                         </div>
-                        <div className='flex flex-col items-center gap-5 bg-violet-500 bg-opacity-5 py-10 px-7 lg:px-14 rounded-lg w-full'>
+                        <div className='flex flex-col items-center gap-5 bg-violet-500 border border-violet-500 border-opacity-20 bg-opacity-5 py-10 px-7 lg:px-14 rounded-lg w-full'>
                             {/* play store */}
 
                             <div className="flex">
